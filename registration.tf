@@ -6,7 +6,7 @@ iterradform {
 
   tags = {
     Terraform   = "true"
-    Environment = "dev"
+    Environment = "devandtest"
     Enviranmnnt = testing
   }
 }
